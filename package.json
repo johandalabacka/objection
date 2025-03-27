@@ -1,0 +1,13 @@
+{
+  "name": "objection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "knex": "^3.1.0",
+    "mysql2": "^3.14.0",
+    "objection": "^3.1.5"
+  }
+}
