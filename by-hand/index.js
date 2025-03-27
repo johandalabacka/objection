@@ -1,4 +1,4 @@
-import db from '../my-objection/db.js'
+import db from './db.js'
 
 async function getKurser(filter) {
   const query = db('Kurs as k')
